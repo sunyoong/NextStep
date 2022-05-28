@@ -16,6 +16,7 @@ public class CalculatorTest {
 //	}
 //
 	
+	// junit 테스트
 	private Calculator cal;
 	
 	@BeforeEach
